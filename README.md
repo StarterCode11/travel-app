@@ -1,4 +1,4 @@
-d0.jpg)
+
 
 # Getting Started with Create React App
 
